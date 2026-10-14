@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/Email-silviopereira1706%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <a href="https://www.linkedin.com/in/seu-perfil-aqui">
-      <img src="https://img.shields.io/badge/LinkedIn-Silvio%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="[https://img.shields.io/badge/LinkedIn-Silvio%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn](https://www.linkedin.com/in/silvio-pereira-3ab013385/?isSelfProfile=true)" />
     </a>
     <img src="https://img.shields.io/badge/Location-Sorocaba%2C%20SP-00875A?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
   </p>
